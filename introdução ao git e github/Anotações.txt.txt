@@ -1,0 +1,8 @@
+Criar repositório no Github
+* a linguagem do github para editar é o markdown (md)
+
+abrir o git bash na pasta
+comando git clone ( link do repositorio remoto)
+comando cd (nome da pasta do repositorio)/
+agr que esta dentro do repositorio fazer o comando "git status" para verificar
+* quando criar uma nova pasta dentro do repositorio, aplicar outro git status
