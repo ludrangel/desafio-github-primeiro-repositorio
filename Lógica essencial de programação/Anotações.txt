@@ -1,0 +1,4 @@
+algoritmo: é uma sequencia de passos que resolve um problema
+pseudocódigo: é uma forma generica de escrever um algoritmo, utilizando uma linguagem simples.
+fluxograma: ferramenta utizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados
+variaveis: é um objeto capaz de reter e representar um valor ou expressão
