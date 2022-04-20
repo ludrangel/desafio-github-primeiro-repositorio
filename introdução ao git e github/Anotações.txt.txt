@@ -5,4 +5,8 @@ abrir o git bash na pasta
 comando git clone ( link do repositorio remoto)
 comando cd (nome da pasta do repositorio)/
 agr que esta dentro do repositorio fazer o comando "git status" para verificar
-* quando criar uma nova pasta dentro do repositorio, aplicar outro git status
+* quando criar uma nova pasta dentro do repositorio, aplicar outro git status e para 
+colocar a nova pasta no controle de versão local aplicar o " git add . "
+comando git commit -m " mensagem" ( para criar um commit )
+comando git status 
+comando git push origin main ( envia todos os commits criados para o github)
